@@ -1,4 +1,4 @@
-# 🚀 NEXUS ANALYTICS
+readme = '''# 🚀 NEXUS ANALYTICS
 ### Live Financial Intelligence Dashboard
 
 ![Nexus Analytics Dashboard](dashboard.png)
@@ -113,3 +113,8 @@ Email: jessicamathew31@gmail.com
 ---
 
 > Zero coding experience 3 weeks ago. Now I have a production-grade web application live on the internet.
+'''
+
+with open('README.md', 'w') as f:
+    f.write(readme)
+print("done")
