@@ -1,7 +1,7 @@
 # 🚀 NEXUS ANALYTICS
 ### Live Financial Intelligence Dashboard
 
-![Nexus Analytics Dashboard](dashboard.png)
+![Nexus Analytics Dashboard](DashboardV2.png)
 
 > A production-grade interactive financial dashboard built from absolute zero using Python & Plotly Dash — analysing real Fortune 500 10-K annual report data spanning 14 years (2009–2023).
 
